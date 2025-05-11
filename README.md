@@ -12,7 +12,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, sem muitas experiências. Busc
   - Back-end: Python
 - 🌱 Atualmente estou aprendendo: Procurando melhorar minha habilidades.
 - 💼 Aberto a novas oportunidades de colaboração ou trabalho.
-- 📫 Como me encontrar: honeybee7415@gmail.com | [[LinkedIn]](https://www.linkedin.com/in/mel-isis-58544a347/?trk=opento_sprofile_topcard)
+- 📫 Como me encontrar: [[Email]](honeybee7415@gmail.com) | [[LinkedIn]](https://www.linkedin.com/in/mel-isis-58544a347/?trk=opento_sprofile_topcard)
 
 ## 📊 GitHub Stats
 
