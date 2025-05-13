@@ -27,7 +27,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, sem muitas experiências. Busc
 ## Site
 https://honeybee2409.github.io/melisis.github.io/
 
-Estou sempre aberto a novas ideias, contribuições em projetos open-source e networking com a comunidade. Sinta-se à vontade para entrar em contato!
+Estou sempre aberta a novas ideias, contribuições em projetos open-source e networking com a comunidade. Sinta-se à vontade para entrar em contato!
 
 ---
 
