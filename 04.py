@@ -1,5 +1,3 @@
-# Desenvolva o programa que classifique dois valores inteiros quaisquer em ordem crescente.
-# Os valores serão fornecidos pelo usuário.
 n1 = int(input('Primeiro valor: '))
 n2 = int(input('Segundo valor: '))
 if n1 > n2:
