@@ -1,6 +1,3 @@
-# Construa o programa que calcule o peso ideal de uma pessoa. Utilize as seguintes fórmulas
-# Se homem, o peso ideal é calculado assim: (72,7 x altura) - 58;
-# Se mulher, o peso ideal é calculado assim: (62,1 x altura) - 44,7
 h = float(input('Qual sua altura? '))
 genero = input('Qual seu gênero (digite H ou M): ')
 if genero == 'h':
